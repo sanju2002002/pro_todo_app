@@ -12,11 +12,11 @@ A professional Flutter Todo application with clean architecture and modern UI.
 
 ## Architecture
 
--**Models**: Data structures
--**Providers**: State management using Provider
--**Screens**: Page-level widgets
--**Widgets**: Resuable UI components
--**Utils**: Constants and helpers
+- **Models**: Data structures
+- **Providers**: State management using Provider
+- **Screens**: Page-level widgets
+- **Widgets**: Resuable UI components
+- **Utils**: Constants and helpers
 
 ## Screenshots
 
